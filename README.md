@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hi, I am Lebone👋🏼👩🏼‍💻
+---
 
-<!--
+👩🏼‍💻 Software Developer/Engineer sharing my journey and learning in tech<br/>
+👩🏼‍🎓 Studying SQL courses, web development, Data science at Codespace academy, South Africa<br/>
+💫 Currently learning about web development<br/>
+---
+
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Bonolobee's github stats](https://github-readme-stats.vercel.app/api?username=Bonoloee)](https://github.com/anuraghazra/github-readme-stats)
+
 **Bonolobee/Bonolobee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
